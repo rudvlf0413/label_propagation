@@ -1,1 +1,4 @@
 *.pyc
+label propagation-checkpoint.ipynb
+.ipynb_checkpoints/wmd-checkpoint.ipynb
+.ipynb_checkpoints/word2vec-checkpoint.ipynb
